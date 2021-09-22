@@ -1,0 +1,2 @@
+sbi.App=org.springframework.stereotype.Component
+sbi.GreetingController=org.springframework.stereotype.Component

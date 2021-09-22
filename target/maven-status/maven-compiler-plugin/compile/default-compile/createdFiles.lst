@@ -1,0 +1,4 @@
+META-INF\spring.components
+sbi\App.class
+sbi\GreetingController.class
+sbi\Greeting.class
